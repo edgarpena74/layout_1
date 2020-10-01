@@ -46,6 +46,37 @@ main {
   float: left;
 }
 
+.top {
+  height: 50%;
+  background-color: chartreuse;
+}
+
+.grid1 {
+  height: 50%;
+  width: 50%;
+  background-color: lavender;
+  float: left;
+}
+
+.grid2 {
+  height: 50%;
+  width: 50%;
+  background-color: skyblue;
+  float: left;
+}
+
+.grid3 {
+  height: 50%;
+  width: 50%;
+  background-color: rgb(202, 28, 188);
+  float: left;
+}
+.grid1 {
+  height: 50%;
+  width: 50%;
+  background-color: green;
+  float: left;
+}
 .right {
   background-color: tomato;
   float: right;
